@@ -3,7 +3,6 @@
 
 - 💻️ I'm currently learning **software development**
 - 🤩 I love **movies, music, game**
-- 📧 You can reach me: **[337906099@qq.com](mailto:337906099@qq.com)**
 - 📚 You may like [My Blog](https://blog.zerovv.top)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/linmo-33/count.svg) visitor.
